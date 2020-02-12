@@ -1,0 +1,15 @@
+INSTRUCTIONS:
+1.	Connect all the negative leads of the 9 LEDs in a layer.
+2.	Strand out the positive leads of all the LEDs
+3.	Make 3 such layers
+4.	Connect the corresponding positive leads of two consecutive layers
+5.	Then do the same with the third layer.
+6.	Mount the cube on the PCB and solder the 9 points of the 9 columns of the cube
+7.	Solder a 1k ohm resistor to negative lead loop of each layer
+8.	The 3 ends of the resistors soldered are the 3 outputs.
+9.	Then take  9 pin header and solder to the PCB
+10.	Solder 9 points of  the 9 columns to the 9 pin header.
+11.	Connect all the 12 pins(3 from resistors and 9 from the 9 pin header) to the Arduino(you can use any versions of the Arduino available).
+12.	Upload the code. 
+13.	Done
+
